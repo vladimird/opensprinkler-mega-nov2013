@@ -32,7 +32,7 @@
 #define ADDR_EEPROM_USER        (ADDR_EEPROM_MAS_OP+(MAX_EXT_BOARDS+1))
 // address where program schedule data is stored
 
-#define DEFAULT_PASSWORD        "spectrum48"
+#define DEFAULT_PASSWORD        "spectrum"
 #define DEFAULT_LOCATION        "podgorica" 
 // zip code, city name or any google supported location strings
 // IMPORTANT: use , or + in place of space
